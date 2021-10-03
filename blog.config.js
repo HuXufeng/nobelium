@@ -2,7 +2,7 @@ const BLOG = {
   title: '您拨的小灵通不在服务区',
   author: 'Wushiohfon',
   email: 'huxufeng0120@qq.com',
-  link: 'https://wushiohfon.ga',
+  link: 'https://www.wushiohfon.ga',
   description: '用心写废话',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -11,7 +11,7 @@ const BLOG = {
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 10,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
